@@ -8,3 +8,7 @@ GIT configuration setup
 5. git init: initialises a repository (folder)
 6. git status: displays the current status of files and commits in the git repo
 7. git add .: adds all the changes to the git repo
+
+8. git commit -m "<commit message>": provide a message to your commit
+9. git branch -M main: changes root branch to "main"
+10. git branch: displays all the branches and highlights the current branch
