@@ -12,3 +12,5 @@ GIT configuration setup
 8. git commit -m "<commit message>": provide a message to your commit
 9. git branch -M main: changes root branch to "main"
 10. git branch: displays all the branches and highlights the current branch
+
+11. git merge <branch-name>:merging the branch with main, only works locally will not show in the remote repo
