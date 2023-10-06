@@ -1,3 +1,4 @@
 a=1
 b=3
-print(a-b)
+sub=(a-b)
+print(sub)
