@@ -1,0 +1,5 @@
+1. git pull origin <branch-name>: pulls the code from the remote branch-name to the local current branch
+
+Pull request: it is a process to merge the code from one branch to another through a process of review
+it is called as PR.
+PR is opened in the remote (github)
